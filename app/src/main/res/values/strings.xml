@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reflex Beta</string>
+
+    <!-- Strings related to the Alert Dialog -->
+    <string name="notification_listener_service">"Reflex App Notification Listener"</string>
+    <string name="notification_listener_service_explanation">"Reflex App membutuhkan anda menyetujui aplikasi ini untuk membaca notifikasi anda. Setuju?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="tnc">1.	“User” adalah pemakai helm Reflex. “Reflex” adalah produk dan merk yang dimiliki oleh PT. Arke Global Rekayasa Nusantara.\n2.	“Reflex” merupakan sebuah unit helm yang mengalami modifikasi untuk dapat memiliki fitur tambahan Head-Up Display. Basis dari “Reflex” adalah helm SNI.\n3.	Salah satu titik berat pada perancangan “Reflex” adalah pada aspek safety. PT. Arke Global Rekayasa Nusantara berupaya keras menerapkan asumsi-asumsi paling konservatif mengenai perpindahan energi, ergonomi, dan aspek safety lainnya.\n4.	Produk Beta Release “Reflex” adalah produk yang sudah memiliki segala fitur dasar yang diperlukan dan telah diuji internal secara terbatas untuk mengetahui fungsi dan pengalaman dalam penggunaannya.\n5.	Produk Beta Release “Reflex” bukan produk final dan dapat mengalami penyempurnaan berdasarkan feedback, bug reporting, dan saran dari user.\n6.	Karena bukan produk final, maka user mungkin akan memiliki pengalaman yang tidak sempurna selama penggunaan produk.\n7.	Dengan memahami butir 1 sampai 6, dengan ini user telah setuju untuk membebaskan “Reflex” dan/atau PT. Arke Global Rekayasa Nusantara dan/atau pihak yang berafiliasi dengan Reflex-PT. Arke Global Rekayasa Nusantara dari ketentuan Pasal 1504 KUH Perdata, Pasal 1506 KUH Perdata, dan Pasal 1507 KUH Perdata serta tanggung jawab di kemudian hari terhadap segala kerugian langsung maupun tidak langsung yang mungkin ditimbulkan oleh pemakaian “Reflex”.\n8.	Keselamatan berkendara merupakan tanggung jawab masing-masing individu. Berkendaralah dengan kondisi badan bugar, kondisi kendaraan baik, dan patuhi peraturan lalu lintas.</string>
+    <string name="title_activity_dreamsight_v2">DreamsightV2Activity</string>
+
+    <string name="gatt_service_name">BLE Gatt Service</string>
+    <string name="gatt_service_description">A background BLE GATT service</string>
+    <string name="gatt_service_running_notification">\"Managing BLE GATT service\"</string>
+    <string name="pair_the_ble_gatt_server_via_settings">Pair the ble-gatt-server via settings</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522377477714",
+    "firebase_url": "https://dreamsight-949ff.firebaseio.com",
+    "project_id": "dreamsight-949ff",
+    "storage_bucket": "dreamsight-949ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522377477714:android:48e0314253dd833d",
+        "android_client_info": {
+          "package_name": "com.arkeglorus.dreamsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522377477714-hb747u60vobcegl0ni66a47m23dbm2oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTybiKHNQwzT1jY0JebcVnlu6vKaHQzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522377477714-hb747u60vobcegl0ni66a47m23dbm2oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
